@@ -1,0 +1,5 @@
+C:\Aula01\OrientacaoObjetos\obj\Debug\net5.0\OrientacaoObjetos.csproj.AssemblyReference.cache
+C:\Aula01\OrientacaoObjetos\obj\Debug\net5.0\OrientacaoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aula01\OrientacaoObjetos\obj\Debug\net5.0\OrientacaoObjetos.AssemblyInfoInputs.cache
+C:\Aula01\OrientacaoObjetos\obj\Debug\net5.0\OrientacaoObjetos.AssemblyInfo.cs
+C:\Aula01\OrientacaoObjetos\obj\Debug\net5.0\OrientacaoObjetos.csproj.CoreCompileInputs.cache

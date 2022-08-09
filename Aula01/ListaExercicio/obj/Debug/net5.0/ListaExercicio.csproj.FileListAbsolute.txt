@@ -1,0 +1,16 @@
+C:\Aula01\ListaExercicio\bin\Debug\net5.0\ListaExercicio.exe
+C:\Aula01\ListaExercicio\bin\Debug\net5.0\ListaExercicio.deps.json
+C:\Aula01\ListaExercicio\bin\Debug\net5.0\ListaExercicio.runtimeconfig.json
+C:\Aula01\ListaExercicio\bin\Debug\net5.0\ListaExercicio.runtimeconfig.dev.json
+C:\Aula01\ListaExercicio\bin\Debug\net5.0\ListaExercicio.dll
+C:\Aula01\ListaExercicio\bin\Debug\net5.0\ref\ListaExercicio.dll
+C:\Aula01\ListaExercicio\bin\Debug\net5.0\ListaExercicio.pdb
+C:\Aula01\ListaExercicio\obj\Debug\net5.0\ListaExercicio.csproj.AssemblyReference.cache
+C:\Aula01\ListaExercicio\obj\Debug\net5.0\ListaExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aula01\ListaExercicio\obj\Debug\net5.0\ListaExercicio.AssemblyInfoInputs.cache
+C:\Aula01\ListaExercicio\obj\Debug\net5.0\ListaExercicio.AssemblyInfo.cs
+C:\Aula01\ListaExercicio\obj\Debug\net5.0\ListaExercicio.csproj.CoreCompileInputs.cache
+C:\Aula01\ListaExercicio\obj\Debug\net5.0\ListaExercicio.dll
+C:\Aula01\ListaExercicio\obj\Debug\net5.0\ref\ListaExercicio.dll
+C:\Aula01\ListaExercicio\obj\Debug\net5.0\ListaExercicio.pdb
+C:\Aula01\ListaExercicio\obj\Debug\net5.0\ListaExercicio.genruntimeconfig.cache
